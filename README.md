@@ -1,5 +1,5 @@
 This is my personal portfolio website, designed to showcase who I am, my technical skills,
- and the projects I’ve worked on. Built using HTML, CSS (Bootstrap 5), and JavaScript, it’s 
+and the projects I’ve worked on. Built using HTML, CSS (Bootstrap 5), and JavaScript, it’s 
 fully responsive and animated with AOS (Animate On Scroll) for a modern user experience. I’ve
 used the DevFolio template by BootstrapMade and customized it to reflect my personal brand. 
 The contact form is powered by FormSubmit, allowing users to send me messages without any 
